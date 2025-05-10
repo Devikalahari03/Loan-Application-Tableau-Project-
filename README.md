@@ -33,7 +33,7 @@ The dataset used in this project includes information about loan applicants, suc
 2. Open Tableau and connect to the data source (if the data is local, import the dataset into Tableau).
 
 ## Usage
-- Open the Tableau workbook file (`Loan_Application_Workbook.twbx`).
+- Open the Tableau workbook file.
 - Explore various sheets and dashboards to analyze different aspects of the loan application data.
 - Interact with the visualizations to filter and drill down into the data.
 
