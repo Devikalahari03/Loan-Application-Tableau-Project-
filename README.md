@@ -38,7 +38,9 @@ The dataset used in this project includes information about loan applicants, suc
 
   ## Screenshots
 Here are some screenshots of the interactive dashboards created in Tableau:
-C:\Users\lahar\OneDrive\Pictures\Screenshots\Screenshot 2025-05-10 100932.png
+
+# ![Screenshot 2025-05-10 100932](https://github.com/user-attachments/assets/42ef6ebe-fec5-4c2f-a4bf-bf92ae6df97d)
+
 
 ## Contributions
 Feel free to fork the repository, make improvements, or suggest features. If you encounter any issues, please open an issue on the repository.
