@@ -18,7 +18,6 @@ The dataset used in this project includes information about loan applicants, suc
 - Loan details (loan amount, loan term, purpose, etc.).
 - Loan status (approved, rejected, pending).
 
-**Note**: Ensure to check the `data/` folder for the raw dataset or provide instructions on how to acquire the dataset if it's not included.
 
 ## Tools and Technologies
 - **Tableau**: For data visualization and dashboard creation.
@@ -37,13 +36,13 @@ The dataset used in this project includes information about loan applicants, suc
 - Explore various sheets and dashboards to analyze different aspects of the loan application data.
 - Interact with the visualizations to filter and drill down into the data.
 
+  ## Screenshots
+Here are some screenshots of the interactive dashboards created in Tableau:
+C:\Users\lahar\OneDrive\Pictures\Screenshots\Screenshot 2025-05-10 100932.png
 
 ## Contributions
 Feel free to fork the repository, make improvements, or suggest features. If you encounter any issues, please open an issue on the repository.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For any questions or suggestions, feel free to contact me at [your-email@example.com].
+For any questions or suggestions, feel free to contact me at laharidevikabandi@gmail.com.
 
